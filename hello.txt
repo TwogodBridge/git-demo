@@ -18,7 +18,5 @@ hello scx !
 hello scx !
 hello scx !
 hello scx !
-<<<<<<< HEAD
 hello scx ! master test
 hello scx ! hot-fix
->>>>>>> hot-fix
