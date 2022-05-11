@@ -18,5 +18,5 @@ hello scx !
 hello scx !
 hello scx !
 hello scx !
-hello scx !
+hello scx ! main
 hello scx ! hot-fix
