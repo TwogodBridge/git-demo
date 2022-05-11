@@ -18,10 +18,7 @@ hello scx !
 hello scx !
 hello scx !
 hello scx !
-<<<<<<< HEAD
 hello scx ! main test
-=======
 hello scx ! main
->>>>>>> hot-fix
 hello scx ! hot-fix
 1111aaa
